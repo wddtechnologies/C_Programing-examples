@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.csprojResolveAssemblyReference.cache
